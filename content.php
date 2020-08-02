@@ -32,7 +32,7 @@
         </div>
         <!-- <h1 class="display-4">PT. Qualita Asia Solusi</h1> -->
         <hr class="my-4">
-        <a class="btn btn-lg btn-primary" href="https://profiling.qualitaconsulting.co.id" tabindex="-1" aria-disabled="true" targe="_blank">Profiling Application</a>
+        <a class="btn btn-lg btn-primary" href="https://profiling.qualitaconsulting.co.id" tabindex="-1" aria-disabled="true" target="_blank">Profiling Application</a>
     </div>
     <div class="container">
         <div class="row mb-3">
