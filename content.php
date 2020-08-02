@@ -4,7 +4,7 @@
             <div class="media-body">
                 <div class="row">
                     <div class="col-lg-3 col-sm-12">
-                        <img src="/assets/images/Logo QAS.png" class="align-self-start mr-3" alt="..." width="300">
+                        <img src="/assets/images/Logo QAS.png" class="align-self-start" alt="..." width="300">
                     </div>
                     <div class="col-lg-9 col-sm-12">
                         <h2 class="font-weight-bold">PT. Qualita Asia Solusi</h2>
@@ -32,7 +32,8 @@
         </div>
         <!-- <h1 class="display-4">PT. Qualita Asia Solusi</h1> -->
         <hr class="my-4">
-        <a class="btn btn-lg btn-primary" href="https://profiling.qualitaconsulting.co.id" tabindex="-1" aria-disabled="true" target="_blank">Profiling Application</a>
+        <a class="btn btn-lg btn-primary" href="https://profiling.qualitaconsulting.co.id" tabindex="-1"
+            aria-disabled="true" target="_blank">Profiling Application</a>
     </div>
     <div class="container">
         <div class="row mb-3">
@@ -73,19 +74,26 @@
                                     <h4 class="font-weight-bold mb-1 text-primary">Assesment Center</h4>
                                 </div>
                                 <div class="media">
-                                    <img src="/assets/images/assesmentcenter.png" class="img-fluid mr-3 d-none d-sm-block">
+                                    <img src="/assets/images/assesmentcenter.png"
+                                        class="img-thumbnail d-none d-sm-block">
                                     <div class="media-body">
-                                        <p class="mb-1">Assessment is a service designed to assist companies in implementing the
-                                        service user assessment and competency potential, both for the selection of new
-                                        candidates and to identify the competencies of employees who have owned the company.
+                                        <p class="mb-1">Assessment is a service designed to assist companies in
+                                            implementing the
+                                            service user assessment and competency potential, both for the selection of
+                                            new
+                                            candidates and to identify the competencies of employees who have owned the
+                                            company.
                                         </p>
-                                        <small>In practice, Qualita Asia Solusi helps develop criteria ranging from success,
-                                        devise an appropriate measurement tool, to perform measurements, and then presents the
-                                        results of an assessment that is easy to understand and use in the management of Human
-                                        Resources.</small>
+                                        <small>In practice, Qualita Asia Solusi helps develop criteria ranging from
+                                            success,
+                                            devise an appropriate measurement tool, to perform measurements, and then
+                                            presents the
+                                            results of an assessment that is easy to understand and use in the
+                                            management of Human
+                                            Resources.</small>
                                     </div>
                                 </div>
-                                
+
                             </div>
                             <div href="#" class="list-group-item list-group-item-action">
                                 <div class="d-flex w-100 justify-content-between">
@@ -148,18 +156,17 @@
                         Our Clients
                     </div>
                     <div class="card-body">
-                        <div class="media text-center justify-content-center">
-                            <img src="/assets/images/bca.png" class="img-fluid mr-3" width="250">
-                        </div>
-                        <div class="media text-center justify-content-center mt-3">
-                            <img src="/assets/images/btn.png" class="img-fluid mr-3">
-                            <img src="/assets/images/btpn.png" class="img-fluid mr-3" width="150" height="75">
-                            <img src="/assets/images/gajahtunggal.png" class="img-fluid mr-3" width="150">
-                            <img src="/assets/images/pasarjaya.png" class="img-fluid mr-3" width="150"
-                                height="75">
-                            <img src="/assets/images/univ.png" class="img-fluid mr-3" width="150">
-                            <img src="/assets/images/chevron.png" class="img-fluid mr-4" widht="150" height="90">
-                            <img src="/assets/images/pu.png" class="img-fluid mr-3" height="90">
+                        <div class="row">
+                            <div class="col-lg-12 text-center mb-3">                            
+                                <img src="/assets/images/bca.png" class="img-thumbnail" width="250">
+                            </div>
+                            <div class="col-sm-2 text-center mb-3"><img src="/assets/images/btn.png" class="img-thumbnail"></div>
+                            <div class="col-sm-2 text-center mb-3"><img src="/assets/images/btpn.png" class="img-thumbnail"></div>
+                            <div class="col-sm-2 text-center mb-3"><img src="/assets/images/gajahtunggal.png" class="img-thumbnail"></div>
+                            <div class="col-sm-2 text-center mb-3"><img src="/assets/images/pasarjaya.png" class="img-thumbnail"></div>
+                            <div class="col-sm-2 text-center mb-3"><img src="/assets/images/univ.png" class="img-thumbnail"></div>
+                            <div class="col-sm-1 text-center mb-3"><img src="/assets/images/chevron.png" class="img-thumbnail"></div>
+                            <div class="col-sm-1 text-center mb-3"><img src="/assets/images/pu.png" class="img-thumbnail"></div>
                         </div>
                     </div>
                 </div>
